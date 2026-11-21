@@ -1,0 +1,11 @@
+# Personal settings (contains local paths and your allow/block lists)
+config.json
+
+# Shortcuts contain absolute paths of this machine — recreate with install_shortcut.ps1
+*.lnk
+
+# Local screenshots
+screenshot*.png
+
+__pycache__/
+*.pyc
